@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yCQpMSf8aIvn1bdv745acOzY+poMslpcr25AJ0LrpcNaU/4PDQwjDzLpMEVejCpuo2KoGOKqar7P/sPPouAfWA==",
+  "dgSpecHash": "YdB9A8+NEcH/hyqVxDLn9cXDtvNNaiO/9J7/YWhGRl2iUYS9366WUZzE4lCA6n5eotxscSHl2XnJtIgKcOzV2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.Models\\RandomUser.Models.csproj",
+  "projectFilePath": "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.Models\\RandomUser.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

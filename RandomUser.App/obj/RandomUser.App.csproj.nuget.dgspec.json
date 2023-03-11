@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.App\\RandomUser.App.csproj": {}
+    "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.App\\RandomUser.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.App\\RandomUser.App.csproj": {
+    "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.App\\RandomUser.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.App\\RandomUser.App.csproj",
+        "projectUniqueName": "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.App\\RandomUser.App.csproj",
         "projectName": "RandomUser.App",
-        "projectPath": "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.App\\RandomUser.App.csproj",
+        "projectPath": "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.App\\RandomUser.App.csproj",
         "packagesPath": "C:\\Users\\nicky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.App\\obj\\",
+        "outputPath": "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.Models\\RandomUser.Models.csproj": {
-                "projectPath": "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.Models\\RandomUser.Models.csproj"
+              "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.Models\\RandomUser.Models.csproj": {
+                "projectPath": "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.Models\\RandomUser.Models.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.Models\\RandomUser.Models.csproj": {
+    "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.Models\\RandomUser.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.Models\\RandomUser.Models.csproj",
+        "projectUniqueName": "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.Models\\RandomUser.Models.csproj",
         "projectName": "RandomUser.Models",
-        "projectPath": "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.Models\\RandomUser.Models.csproj",
+        "projectPath": "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.Models\\RandomUser.Models.csproj",
         "packagesPath": "C:\\Users\\nicky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicky\\source\\repos\\RandomUser.App\\RandomUser.Models\\obj\\",
+        "outputPath": "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
