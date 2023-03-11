@@ -835,6 +835,7 @@ C:\Users\nicky\source\repos\RandomUser.App\RandomUser.App\bin\Debug\net7.0\Rando
 C:\Users\nicky\source\repos\RandomUser.App\RandomUser.App\obj\Debug\net7.0\build-gz\+x3X7AvW.gz
 C:\Users\nicky\source\repos\RandomUser.App\RandomUser.App\obj\Debug\net7.0\build-gz\bwQ+cTPM.gz
 C:\Users\nicky\source\repos\RandomUser.App\RandomUser.App\bin\Debug\net7.0\libman.json
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.3.x8u2e6i8w8.js
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
@@ -872,6 +873,10 @@ C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\RandomUser.App.dll
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\RandomUser.App.pdb
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\RandomUser.Models.dll
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\RandomUser.Models.pdb
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
@@ -1034,11 +1039,6 @@ C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
-C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
-C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\RandomUser.App.dll
-C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\RandomUser.App.pdb
-C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\RandomUser.Models.dll
-C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\RandomUser.Models.pdb
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
 C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
