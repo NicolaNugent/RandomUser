@@ -1,7 +1,4 @@
-using Moq;
 using RandomUser.App.Services;
-using RandomUser.Models;
-using System.Reflection;
 
 namespace RandomUser.Tests.Services
 {
