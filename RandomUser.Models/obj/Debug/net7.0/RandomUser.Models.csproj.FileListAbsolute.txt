@@ -10,3 +10,15 @@ C:\Users\nicky\source\repos\RandomUser.App\RandomUser.Models\obj\Debug\net7.0\Ra
 C:\Users\nicky\source\repos\RandomUser.App\RandomUser.Models\obj\Debug\net7.0\refint\RandomUser.Models.dll
 C:\Users\nicky\source\repos\RandomUser.App\RandomUser.Models\obj\Debug\net7.0\RandomUser.Models.pdb
 C:\Users\nicky\source\repos\RandomUser.App\RandomUser.Models\obj\Debug\net7.0\ref\RandomUser.Models.dll
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\bin\Debug\net7.0\RandomUser.Models.deps.json
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\bin\Debug\net7.0\RandomUser.Models.dll
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\bin\Debug\net7.0\RandomUser.Models.pdb
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\obj\Debug\net7.0\RandomUser.Models.csproj.AssemblyReference.cache
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\obj\Debug\net7.0\RandomUser.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\obj\Debug\net7.0\RandomUser.Models.AssemblyInfoInputs.cache
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\obj\Debug\net7.0\RandomUser.Models.AssemblyInfo.cs
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\obj\Debug\net7.0\RandomUser.Models.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\obj\Debug\net7.0\RandomUser.Models.dll
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\obj\Debug\net7.0\refint\RandomUser.Models.dll
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\obj\Debug\net7.0\RandomUser.Models.pdb
+C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\obj\Debug\net7.0\ref\RandomUser.Models.dll
