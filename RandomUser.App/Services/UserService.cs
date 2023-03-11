@@ -16,11 +16,11 @@ namespace RandomUser.App.Services
         {
             List<User> users = new List<User>();
             string errorMessage = string.Empty;
-            
-            // Results param to generate more than 1 user.
+                        
             try 
-            { 
-                var response = await _httpClient.GetFromJsonAsync<Response>("https://randomuser.me/api/?results=5");
+            {
+				// Results param to generate more than 1 user.
+				var response = await _httpClient.GetFromJsonAsync<Response>("https://randomuser.me/api/?results=5");
                 if (response != null && response.results != null)
                 {
                     users.AddRange(response.results);

@@ -2,8 +2,8 @@
 {
     public class Info
     {
-        public string seed { get; set; } = string.Empty;
-
         public string version { get; set; } = string.Empty;
-    }
+
+		public int results { get; set; } = 0;
+	}
 }
