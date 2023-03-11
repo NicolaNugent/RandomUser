@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.444444444444444" branch-rate="0.214285714285714" lines-covered="44" lines-valid="99" branches-covered="3" branches-valid="14" complexity="43" version="0" timestamp="1678539078">
+<coverage line-rate="0.505747126436782" branch-rate="0.25" lines-covered="44" lines-valid="87" branches-covered="3" branches-valid="12" complexity="39" version="0" timestamp="1678546923">
   <sources>
     <source>C:\Users\nicky\</source>
   </sources>
   <packages>
-    <package name="RandomUser.App" line-rate="0.228571428571429" branch-rate="0.214285714285714" complexity="24">
+    <package name="RandomUser.App" line-rate="0.275862068965517" branch-rate="0.25" complexity="20">
       <classes>
         <class name="Program" filename="C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\Program.cs" line-rate="0" branch-rate="1" complexity="1">
           <methods>
@@ -29,9 +29,9 @@
             <line number="13" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="RandomUser.App.Pages.Index" filename="C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\Pages\Index.razor" line-rate="0" branch-rate="0" complexity="6">
+        <class name="RandomUser.App.Pages.Index" filename="C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\Pages\Index.razor" line-rate="0" branch-rate="0" complexity="4">
           <methods>
-            <method name="BuildRenderTree" signature="(...)" line-rate="0" branch-rate="0" complexity="6">
+            <method name="BuildRenderTree" signature="(...)" line-rate="0" branch-rate="0" complexity="4">
               <lines>
                 <line number="37" hits="0" branch="true" condition-coverage="0% (0/2)" />
                 <line number="38" hits="0" branch="false" />
@@ -43,20 +43,10 @@
                 <line number="56" hits="0" branch="false" />
                 <line number="59" hits="0" branch="false" />
                 <line number="62" hits="0" branch="false" />
-                <line number="89" hits="0" branch="true" condition-coverage="0% (0/2)" />
-                <line number="90" hits="0" branch="false" />
-                <line number="93" hits="0" branch="false" />
-                <line number="96" hits="0" branch="false" />
-                <line number="99" hits="0" branch="false" />
-                <line number="102" hits="0" branch="false" />
-                <line number="105" hits="0" branch="false" />
-                <line number="108" hits="0" branch="false" />
-                <line number="111" hits="0" branch="false" />
-                <line number="114" hits="0" branch="false" />
-                <line number="117" hits="0" branch="true" condition-coverage="0% (0/2)" />
-                <line number="118" hits="0" branch="false" />
-                <line number="121" hits="0" branch="false" />
-                <line number="124" hits="0" branch="false" />
+                <line number="64" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="65" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+                <line number="71" hits="0" branch="false" />
               </lines>
             </method>
           </methods>
@@ -71,20 +61,10 @@
             <line number="56" hits="0" branch="false" />
             <line number="59" hits="0" branch="false" />
             <line number="62" hits="0" branch="false" />
-            <line number="89" hits="0" branch="true" condition-coverage="0% (0/2)" />
-            <line number="90" hits="0" branch="false" />
-            <line number="93" hits="0" branch="false" />
-            <line number="96" hits="0" branch="false" />
-            <line number="99" hits="0" branch="false" />
-            <line number="102" hits="0" branch="false" />
-            <line number="105" hits="0" branch="false" />
-            <line number="108" hits="0" branch="false" />
-            <line number="111" hits="0" branch="false" />
-            <line number="114" hits="0" branch="false" />
-            <line number="117" hits="0" branch="true" condition-coverage="0% (0/2)" />
-            <line number="118" hits="0" branch="false" />
-            <line number="121" hits="0" branch="false" />
-            <line number="124" hits="0" branch="false" />
+            <line number="64" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="65" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="71" hits="0" branch="false" />
           </lines>
         </class>
         <class name="RandomUser.App.Pages.Index" filename="C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\Pages\Index.razor.cs" line-rate="0" branch-rate="0" complexity="5">
@@ -148,7 +128,7 @@
                 <line number="16" hits="1" branch="false" />
                 <line number="17" hits="1" branch="false" />
                 <line number="18" hits="1" branch="false" />
-                <line number="22" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
                 <line number="23" hits="1" branch="false" />
                 <line number="24" hits="1" branch="true" condition-coverage="75% (3/4)" />
                 <line number="25" hits="1" branch="false" />
@@ -172,7 +152,7 @@
             <line number="16" hits="1" branch="false" />
             <line number="17" hits="1" branch="false" />
             <line number="18" hits="1" branch="false" />
-            <line number="22" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
             <line number="23" hits="1" branch="false" />
             <line number="24" hits="1" branch="true" condition-coverage="75% (3/4)" />
             <line number="25" hits="1" branch="false" />
@@ -227,24 +207,6 @@
             <line number="28" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="RandomUser.App.Shared.SurveyPrompt" filename="C:\Users\nicky\Source\Repos\RandomUser\RandomUser.App\Shared\SurveyPrompt.razor" line-rate="0" branch-rate="1" complexity="2">
-          <methods>
-            <method name="BuildRenderTree" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
-              <lines>
-                <line number="3" hits="0" branch="false" />
-              </lines>
-            </method>
-            <method name="get_Title" signature="()" line-rate="0" branch-rate="1" complexity="1">
-              <lines>
-                <line number="15" hits="0" branch="false" />
-              </lines>
-            </method>
-          </methods>
-          <lines>
-            <line number="3" hits="0" branch="false" />
-            <line number="15" hits="0" branch="false" />
-          </lines>
-        </class>
       </classes>
     </package>
     <package name="RandomUser.Models" line-rate="1" branch-rate="1" complexity="16">
@@ -281,12 +243,12 @@
         </class>
         <class name="RandomUser.Models.Info" filename="C:\Users\nicky\Source\Repos\RandomUser\RandomUser.Models\Info.cs" line-rate="1" branch-rate="1" complexity="2">
           <methods>
-            <method name="get_seed" signature="()" line-rate="1" branch-rate="1" complexity="1">
+            <method name="get_version" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
                 <line number="5" hits="3" branch="false" />
               </lines>
             </method>
-            <method name="get_version" signature="()" line-rate="1" branch-rate="1" complexity="1">
+            <method name="get_results" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
                 <line number="7" hits="3" branch="false" />
               </lines>
@@ -407,38 +369,38 @@
           <methods>
             <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
+                <line number="10" hits="1" branch="false" />
+                <line number="11" hits="1" branch="false" />
+                <line number="12" hits="1" branch="false" />
                 <line number="13" hits="1" branch="false" />
-                <line number="14" hits="1" branch="false" />
-                <line number="15" hits="1" branch="false" />
-                <line number="16" hits="1" branch="false" />
               </lines>
             </method>
             <method name="GetRandom5Users_ReturnUsers" signature="()" line-rate="1" branch-rate="1" complexity="1">
               <lines>
-                <line number="20" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
                 <line number="22" hits="1" branch="false" />
                 <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
                 <line number="28" hits="1" branch="false" />
                 <line number="29" hits="1" branch="false" />
-                <line number="30" hits="1" branch="false" />
-                <line number="31" hits="1" branch="false" />
-                <line number="32" hits="1" branch="false" />
               </lines>
             </method>
           </methods>
           <lines>
+            <line number="10" hits="1" branch="false" />
+            <line number="11" hits="1" branch="false" />
+            <line number="12" hits="1" branch="false" />
             <line number="13" hits="1" branch="false" />
-            <line number="14" hits="1" branch="false" />
-            <line number="15" hits="1" branch="false" />
-            <line number="16" hits="1" branch="false" />
-            <line number="20" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
             <line number="22" hits="1" branch="false" />
             <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
             <line number="28" hits="1" branch="false" />
             <line number="29" hits="1" branch="false" />
-            <line number="30" hits="1" branch="false" />
-            <line number="31" hits="1" branch="false" />
-            <line number="32" hits="1" branch="false" />
           </lines>
         </class>
       </classes>
