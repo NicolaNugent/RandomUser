@@ -1,0 +1,73 @@
+﻿@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<div class="page-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+				<h1>5 Random Users</h1>
+			</div>
+		</div>
+
+		<div class="row" style="background-color:#f0f0f0;">
+			<div class="col-md-1">
+				Gender
+			</div>
+			<div class="col-md-2">
+				Firstname
+			</div>
+			<div class="col-md-2">
+				Lastname
+			</div>
+			<div class="col-md-1">
+				Age
+			</div>
+			<div class="col-md-2">
+				Country
+			</div>
+			<div class="col-md-2">
+				Latitude
+			</div>
+			<div class="col-md-2">
+				Longitude
+			</div>
+		</div>
+
+		@foreach (var user in Users)
+		{
+			<div class="row">
+				<div class="col-md-1">
+					@user.gender
+				</div>
+				<div class="col-md-2">
+					@user.name.first
+				</div>
+				<div class="col-md-2">
+					@user.name.last
+				</div>
+				<div class="col-md-1">
+					@user.dob.age
+				</div>
+				<div class="col-md-2">
+					@user.location.country
+				</div>
+				<div class="col-md-2">
+					@user.location.coordinates.latitude
+				</div>
+				<div class="col-md-2">
+					@user.location.coordinates.longitude
+				</div>
+			</div>
+		}
+
+		@if (!String.IsNullOrEmpty(ErrorMessage))
+		{
+			<div class="row">
+				<div class="col" style="color:red;">
+					@ErrorMessage
+				</div>
+			</div>
+		}
+	</div>
+</div>
