@@ -4,67 +4,79 @@
 
 <div class="page-wrapper">
     <div class="container">
-        <div class="row">
+        <div class="row mb-3 text-center">
             <div class="col-md-12">
 				<h1>5 Random Users</h1>
 			</div>
 		</div>
 
-		<div class="row header">
-			<div class="col-md-1">
-				Title
-			</div>
-			<div class="col-md-2">
-				First Name
-			</div>
-			<div class="col-md-2">
-				Surname
-			</div>
-			<div class="col-md-1">
-				Age
-			</div>
-			<div class="col-md-2">
-				Country
-			</div>
-			<div class="col-md-2">
-				Latitude
-			</div>
-			<div class="col-md-2">
-				Longitude
+		<div class="row">
+			<div class="col-md-12">
+				<div class="table-responsive">
+					<table class="table table-striped table-bordered">
+						<thead>
+							<tr>
+								<th>
+									Title
+								</th>
+								<th>
+									First Name
+								</th>
+								<th>
+									Surname
+								</th>
+								<th>
+									Age
+								</th>
+								<th>
+									Country
+								</th>
+								<th>
+									Latitude
+								</th>
+								<th>
+									Longitude
+								</th>
+							</tr>
+						</thead>
+
+						<tbody>
+							@foreach (var user in Users)
+							{
+								<tr>
+									<td>
+										@user.name.title
+									</td>
+									<td>
+										@user.name.first
+									</td>
+									<td>
+										@user.name.last
+									</td>
+									<td>
+										@user.dob.age
+									</td>
+									<td>
+										@user.location.country
+									</td>
+									<td>
+										@user.location.coordinates.latitude
+									</td>
+									<td>
+										@user.location.coordinates.longitude
+									</td>
+								</tr>
+							}
+						</tbody>
+					</table>
+				</div>
 			</div>
 		</div>
-
-		@foreach (var user in Users)
-		{
-			<div class="row">
-				<div class="col-md-1">
-					@user.name.title
-				</div>
-				<div class="col-md-2">
-					@user.name.first
-				</div>
-				<div class="col-md-2">
-					@user.name.last
-				</div>
-				<div class="col-md-1">
-					@user.dob.age
-				</div>
-				<div class="col-md-2">
-					@user.location.country
-				</div>
-				<div class="col-md-2">
-					@user.location.coordinates.latitude
-				</div>
-				<div class="col-md-2">
-					@user.location.coordinates.longitude
-				</div>
-			</div>
-		}
 
 		@if (!String.IsNullOrEmpty(ErrorMessage))
 		{
 			<div class="row">
-				<div class="col error">
+				<div class="col error" style="color:red;">
 					@ErrorMessage
 				</div>
 			</div>

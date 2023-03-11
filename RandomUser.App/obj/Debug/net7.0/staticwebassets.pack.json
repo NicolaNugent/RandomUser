@@ -61,10 +61,6 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.App\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
       "Id": "C:\\Users\\nicky\\Source\\Repos\\RandomUser\\RandomUser.App\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
